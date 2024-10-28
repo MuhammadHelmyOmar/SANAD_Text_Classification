@@ -1,4 +1,4 @@
-# SANAD_Text_Classification
+# SANAD Text Classification
 [SANAD](https://www.kaggle.com/datasets/haithemhermessi/sanad-dataset) is a Single-label Arabic News Articles Dataset for automatic text categorization.\
 NLP pipeline:
 1. Collecting raw data from files
